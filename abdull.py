@@ -37,7 +37,7 @@ teacher.move()
 teacher.eat()
 
 
-
+#Question 2
 class Vehicle:
     def move(self):
         raise NotImplementedError("Subclasses must implement this method")
